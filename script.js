@@ -60,19 +60,18 @@ document.addEventListener("DOMContentLoaded", () => {
   function flipCard() {
     if (lockBoard) return;
 
-    // this.classList.add("flipped");
     if (this === firstCard) return;
     this.classList.add("flipped");
     
 
-    if (!flippedCard) {
+    if (!flippedCard) {//first card 
       flippedCard = true;
       firstCard =this;
-      console.log(firstCard);
+      // console.log(firstCard);
 
       return;
     }
-    secondCard = this;
+    secondCard = this;//second card
     console.log(secondCard);
     
     moves += 1;
@@ -106,6 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (matchFound === cardList.length / 2) {
       setTimeout(() => alert('Congratulations!!❤ You Won The Game!'), 500);
+      restartGame();
     }
   }
 
