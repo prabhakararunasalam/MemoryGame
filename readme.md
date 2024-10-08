@@ -1,0 +1,19 @@
+##Memory Game
+##Description
+
+Immerse yourself in a captivating memory challenge with this classic Memory Game. Match pairs of identical cards to conquer the board and sharpen your mind.
+
+##How to Play
+
+Uncover the Pairs: Click on cards to reveal their hidden faces.
+Find Your Matches: Spot the cards that are identical to create a winning pair.
+Challenge Yourself: Test your memory skills and race against the clock to complete the game.
+
+##Features
+
+Intuitive Interface: Enjoy a user-friendly experience with a visually appealing design.
+Responsive Design: Play seamlessly on both desktop and mobile devices.
+Engaging Gameplay: Challenge your mind and have fun with this classic memory game.
+Track Your Progress: Keep an eye on your moves and time to see how you stack up.
+Satisfying Rewards: Celebrate your victories with a rewarding experience.
+##Let's Play!
